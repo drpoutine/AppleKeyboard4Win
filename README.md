@@ -3,6 +3,8 @@
 Keyboard Driver files for windows so it doesn't suck ass and the FN row actually works like intended. 
 Pulled from MacPro7,1 ESD Product Version 061-51424 Posted 03/18/2020 (Latest ESD at the time of posting)
 
+Includes Mouse/Trackpad drivers for the good people as well.
+
 
 Thanks to
 
